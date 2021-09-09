@@ -1,0 +1,16 @@
+uuid: 7edf6aff-6d55-4d58-bb9a-ebe3c71b88d9
+langcode: en
+status: false
+dependencies: {  }
+id: dev
+label: Dev
+description: 'Development environment-specific configuration.'
+folder: ../config/splits/dev
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
