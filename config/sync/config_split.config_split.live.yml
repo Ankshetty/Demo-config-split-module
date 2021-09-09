@@ -1,0 +1,16 @@
+uuid: c075ed34-4b09-4db9-b156-85275dcb8c00
+langcode: en
+status: false
+dependencies: {  }
+id: live
+label: Live
+description: ''
+folder: ../config/splits/live
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist:
+  - system.site
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
